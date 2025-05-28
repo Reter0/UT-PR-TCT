@@ -5,5 +5,6 @@ import random
 
 x = [ random.randint(i) for i in range(10)]
 print (x)
+sleep(5)
 exit()
 
